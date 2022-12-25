@@ -1,8 +1,8 @@
 ## Hello, I'm Felipe Ferreira, Software Engineer.
 <div align="center">
   <a href="https://github.com/brfelipeferreira">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=brfelipeferreira&show_icons=true&theme=dracula&include_all_commits=true&count_private=true%22/">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brfelipeferreira&layout=compact&langs_count=7&theme=dracula">
+  <img width="42%" src="https://github-readme-stats.vercel.app/api?username=brfelipeferreira&show_icons=true&theme=dracula&include_all_commits=true&count_private=true%22/">
+  <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brfelipeferreira&layout=compact&langs_count=7&theme=dracula">
 </div>
 
 <div style="display: inline_block"><br>
