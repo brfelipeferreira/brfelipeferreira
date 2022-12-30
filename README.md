@@ -1,4 +1,4 @@
-## Hello, I'm Felipe Ferreira, Software Engineer.
+## Hello, I'm Felipe Ferreira, Software Engineer & Web Developer.
 <div align="center">
   <a href="https://github.com/brfelipeferreira">
   <img width="42%" src="https://github-readme-stats.vercel.app/api?username=brfelipeferreira&show_icons=true&theme=dracula&include_all_commits=true&count_private=true%22/">
