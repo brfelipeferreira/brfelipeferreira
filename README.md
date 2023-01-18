@@ -1,4 +1,4 @@
-## Hi 👋, I'm Felipe Ferreira
+Hi 👋, I'm Felipe Ferreira
 ## Software Engineer & Web Developer.
 
 <div align="center">
