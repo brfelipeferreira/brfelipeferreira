@@ -29,11 +29,8 @@
   <a href = "mailto:brfelipeferreira@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/brfelipeferreira/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
-  ![Snake animation](https://github.com/brfelipeferreira/github-contribution-grid-snake.svg/blob/main/github-user-contribution.svg)
+ ![snake gif](https://github.com/brfelipeferreira/github-contribution-grid-snake.svg/blob/main/github-user-contribution.svg)
 </div>
- 
- ![snake gif](https://github.com/brfelipferreira/brfelipferreira/blob/output/github-contribution-grid-snake.svg)
- 
  
 <div align="center">
   <br><p align="centre"><b>Visitors Count</b></p>  
