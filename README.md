@@ -1,5 +1,6 @@
-## Hi 👋, I'm Felipe Ferreira
-Software Engineer & Web Developer.
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=header"/>
+ 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=white=fff&center=true&vCenter=true&width=1000&lines=Hi👋,+I'm+Felipe+Ferreira;Software+Engineer+and+Web+Developer;)](https://git.io/typing-svg)
 
 <div align="center">
   <a href="https://github.com/brfelipeferreira">
@@ -25,5 +26,12 @@ Software Engineer & Web Developer.
   <a href="https://www.linkedin.com/in/brfelipeferreira/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
   ![Snake animation](https://github.com/brfelipeferreira/github-contribution-grid-snake.svg/blob/main/github-user-contribution.svg)
-
+  
+<div align="center">
+  <br><p align="centre"><b>Visitors Count</b></p>  
+  <p align="center"><img align="center" src="https://profile-counter.glitch.me/{brfelipeferreira}/count.svg" /></p> 
+<br></div>
+  
+ <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
+  
 </div>
