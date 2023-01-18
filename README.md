@@ -1,5 +1,5 @@
-Hi 👋, I'm Felipe Ferreira
-## Software Engineer & Web Developer.
+## Hi 👋, I'm Felipe Ferreira
+Software Engineer & Web Developer.
 
 <div align="center">
   <a href="https://github.com/brfelipeferreira">
