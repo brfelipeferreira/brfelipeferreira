@@ -6,9 +6,9 @@
 <img align="right" alt="Coding" width="250" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
 <div align="center">
   <a href="https://github.com/brfelipeferreira">
-   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=brfelipeferreira">
-   <img align="center" src="https://github-readme-stats.vercel.app/api?username=brfelipeferreira&show_icons=true&locale=en">
-   <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=brfelipeferreira&show_icons=true&locale=en&layout=compact">
+    <img align="center" width="450" src="https://github-readme-streak-stats.herokuapp.com/?user=brfelipeferreira"></img>
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=brfelipeferreira&show_icons=true&locale=en&layout=compact"></img>
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=brfelipeferreira&show_icons=true&locale=en"></img>
   </a>
 </div>
   
