@@ -27,7 +27,7 @@
 
 <div align="center">
   <a href="https://github.com/brfelipeferreira">
-     <img align="center" width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=brfelipeferreira&theme=transparent&show_icons=true&locale=en">
+     <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=brfelipeferreira&theme=transparent&show_icons=true&locale=en">
   </a>
 </div>
   
