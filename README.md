@@ -1,13 +1,15 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=header"/>
- 
+
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Hi👋,+I'm+Felipe+Ferreira;Software+Engineer+and+Cyber+Security;)](https://git.io/typing-svg)
+
+<img align="right" alt="Coding" width="400" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
 
 <div align="center">
   <a href="https://github.com/brfelipeferreira">
-  <img width="42%" src="https://github-readme-stats.vercel.app/api?username=brfelipeferreira&show_icons=true&theme=dracula&include_all_commits=true&count_private=true%22/">
-  <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brfelipeferreira&layout=compact&langs_count=7&theme=dracula">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=brfelipeferreira&show_icons=true&locale=en">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=brfelipeferreira&show_icons=true&locale=en&layout=compact">
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=brfelipeferreira">
 </div>
- 
  
  <div align="center">
   <div style="display: inline_block"><br>
@@ -20,7 +22,6 @@
  </div>
   
   ##
- 
  
  
 <div align="center"> 
@@ -39,5 +40,4 @@
 </div>
   
  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
-  
 </div>
