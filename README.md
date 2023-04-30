@@ -7,9 +7,10 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=brfelipeferreira&show_icons=true&locale=en">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=brfelipeferreira&show_icons=true&locale=en&layout=compact">
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=brfelipeferreira">
-  <img align="center" alt="Coding" width="400" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
 </div>
 
+<img align="right" alt="Coding" width="400" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
+  
  <div align="center">
   <div style="display: inline_block"><br>
     <img align="center" alt="Felipe-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
