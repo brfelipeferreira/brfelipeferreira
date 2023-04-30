@@ -21,13 +21,13 @@
 <div align="right">
   <a href="https://github.com/brfelipeferreira">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=brfelipeferreira&theme=transparent&show_icons=true&locale=en">
-    <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=brfelipeferreira&theme=transparent&show_icons=true&locale=en&layout=compact">
+    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=brfelipeferreira&theme=transparent&show_icons=true&locale=en">
   </a>
 </div>
 
-<div align="right">
+<div align="center">
   <a href="https://github.com/brfelipeferreira">
-     <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=brfelipeferreira&theme=transparent&show_icons=true&locale=en">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=brfelipeferreira&theme=transparent&show_icons=true&locale=en&layout=compact">
   </a>
 </div>
   
