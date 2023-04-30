@@ -18,16 +18,16 @@
 
   ##
 
-<div align="right">
+<div align="left">
   <a href="https://github.com/brfelipeferreira">
-    <img align="center" widht="80%" src="https://github-readme-stats.vercel.app/api/top-langs?username=brfelipeferreira&theme=transparent&show_icons=true&locale=en&layout=compact">
+    <img align="left" widht="100%" src="https://github-readme-stats.vercel.app/api/top-langs?username=brfelipeferreira&theme=transparent&show_icons=true&locale=en&layout=compact">
   </a>
 </div>
 
 <div align="center">
   <a href="https://github.com/brfelipeferreira">
-    <img align="center" widht="50%" src="https://github-readme-stats.vercel.app/api?username=brfelipeferreira&theme=transparent&show_icons=true&locale=en">
-    <img align="center" widht="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=brfelipeferreira&theme=transparent&show_icons=true&locale=en">
+    <img align="center" widht="40%" src="https://github-readme-stats.vercel.app/api?username=brfelipeferreira&theme=transparent&show_icons=true&locale=en">
+    <img align="center" widht="30%" src="https://github-readme-streak-stats.herokuapp.com/?user=brfelipeferreira&theme=transparent&show_icons=true&locale=en">
   </a>
 </div>
   
