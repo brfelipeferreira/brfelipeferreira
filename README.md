@@ -1,6 +1,6 @@
 <img width=100% title="Felipe" alt="name" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Hi👋,+I'm+Felipe+Ferreira&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Software+Engineer+and+Cyber+Security;)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=1c6e01&size=35&center=true&vCenter=true&width=1000&lines=Software+Engineer+&+Cyber+Security;)](https://git.io/typing-svg)
 
 <img src="https://github.com/brfelipeferreira/brfelipeferreira/blob/main/computer-illustration.png?raw=true" min-width="380px" max-width="400px" width="350px" align="right"> <br>
 
@@ -18,18 +18,17 @@
 
   ##
   
-<div align="left"> 
+<div align="center">
+  <a href="https://github.com/brfelipeferreira">
+    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=brfelipeferreira&theme=transparent&show_icons=true&locale=en&layout=compact">
+  </a>
+</div>
+
+<div align="left">
   <a href="https://www.youtube.com/channel/UCLDUvKs3mtUFKhgy3lE4Aww" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
   <a href="https://instagram.com/oo_felipee" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:brfelipeferreira@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/brfelipeferreira/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-
-
-<div align="center">
-  <a href="https://github.com/brfelipeferreira">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=brfelipeferreira&theme=transparent&show_icons=true&locale=en">
-    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=brfelipeferreira&theme=transparent&show_icons=true&locale=en&layout=compact">
-  </a>
 </div>
  
  ##
@@ -40,6 +39,7 @@
 <div align="center">
   <a href="https://github.com/brfelipeferreira">
     <img align="center" widht="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=brfelipeferreira&theme=transparent&show_icons=true&locale=en">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=brfelipeferreira&theme=transparent&show_icons=true&locale=en">
   </a>
 </div>
  
