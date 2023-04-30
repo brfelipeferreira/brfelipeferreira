@@ -1,6 +1,6 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=header"/>
+<img width=100% title="Felipe" alt="name" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=🔰+Hi👋,+I'm+Felipe+Ferreira&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Hi👋,+I'm+Felipe+Ferreira;Software+Engineer+and+Cyber+Security;)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Software+Engineer+and+Cyber+Security;)](https://git.io/typing-svg)
 
 <img src="https://github.com/brfelipeferreira/brfelipeferreira/blob/main/computer-illustration.png?raw=true" min-width="380px" max-width="400px" width="350px" align="right"> <br>
 
@@ -45,5 +45,6 @@
 <br>
 </div>
   
- <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
+<img width=100% title="Felipe" alt="name" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=170&section=footer&fontSize=42&fontColor=fff&animation=twinkling"/>
+
 </div>
