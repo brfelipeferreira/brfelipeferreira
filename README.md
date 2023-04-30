@@ -21,11 +21,9 @@
 <div align="center">
   <a href="https://github.com/brfelipeferreira">
     <img align="left" src="https://github-readme-stats.vercel.app/api?username=brfelipeferreira&theme=transparent&show_icons=true&locale=en">
-    <img align="center" height="50%" src="https://github-readme-stats.vercel.app/api/top-langs?username=brfelipeferreira&theme=transparent&show_icons=true&locale=en&layout=compact">
+    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=brfelipeferreira&theme=transparent&show_icons=true&locale=en&layout=compact">
   </a>
 </div>
-  
-  ##
  
  
 <div align="center"> 
