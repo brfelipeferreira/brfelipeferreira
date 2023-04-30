@@ -18,16 +18,10 @@
 
   ##
 
-<div align="left">
-  <a href="https://github.com/brfelipeferreira">
-    <img align="left" widht="100%" src="https://github-readme-stats.vercel.app/api/top-langs?username=brfelipeferreira&theme=transparent&show_icons=true&locale=en&layout=compact">
-  </a>
-</div>
-
 <div align="center">
   <a href="https://github.com/brfelipeferreira">
-    <img align="center" widht="40%" src="https://github-readme-stats.vercel.app/api?username=brfelipeferreira&theme=transparent&show_icons=true&locale=en">
-    <img align="center" widht="30%" src="https://github-readme-streak-stats.herokuapp.com/?user=brfelipeferreira&theme=transparent&show_icons=true&locale=en">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=brfelipeferreira&theme=transparent&show_icons=true&locale=en">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=brfelipeferreira&theme=transparent&show_icons=true&locale=en&layout=compact">
   </a>
 </div>
   
@@ -41,6 +35,12 @@
   <a href="https://www.linkedin.com/in/brfelipeferreira/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
  ![snake gif](https://github.com/brfelipeferreira/brfelipeferreira/blob/output/github-contribution-grid-snake.svg)
+</div>
+
+<div align="center">
+  <a href="https://github.com/brfelipeferreira">
+    <img align="center" widht="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=brfelipeferreira&theme=transparent&show_icons=true&locale=en">
+  </a>
 </div>
  
 <div align="center">
